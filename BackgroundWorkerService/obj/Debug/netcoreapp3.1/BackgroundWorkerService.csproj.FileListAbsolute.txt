@@ -1,0 +1,9 @@
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\bin\Debug\netcoreapp3.1\BackgroundWorkerService.deps.json
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\bin\Debug\netcoreapp3.1\BackgroundWorkerService.dll
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\bin\Debug\netcoreapp3.1\BackgroundWorkerService.pdb
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\obj\Debug\netcoreapp3.1\BackgroundWorkerService.csproj.AssemblyReference.cache
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\obj\Debug\netcoreapp3.1\BackgroundWorkerService.AssemblyInfoInputs.cache
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\obj\Debug\netcoreapp3.1\BackgroundWorkerService.AssemblyInfo.cs
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\obj\Debug\netcoreapp3.1\BackgroundWorkerService.csproj.CoreCompileInputs.cache
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\obj\Debug\netcoreapp3.1\BackgroundWorkerService.dll
+C:\Users\nuriu\Desktop\Çalışmalarım\MyFinalProject\BackgroundWorkerService\obj\Debug\netcoreapp3.1\BackgroundWorkerService.pdb
